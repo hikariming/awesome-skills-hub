@@ -2,7 +2,7 @@
 
 > Discover and explore amazing Claude AI skills organized by category
 
-This curated list showcases the most interesting and useful Claude AI skills from **[SkillsHub](https://skillshub.dev)**.
+This curated list showcases the most interesting and useful Claude AI skills from **[SkillsHub](https://www.skillshub.work)**.
 
 ---
 
@@ -433,25 +433,61 @@ This curated list showcases the most interesting and useful Claude AI skills fro
 
 ## 🌟 About SkillsHub
 
-**[SkillsHub](https://skillshub.dev)** is your ultimate destination for discovering and exploring Claude AI skills. We organize and curate the best skills from the community to help you supercharge your AI workflows.
+**[SkillsHub](https://www.skillshub.work)** is your ultimate destination for discovering and exploring Claude AI skills. We organize and curate the best skills from the community to help you supercharge your AI workflows.
 
-### Features
+### Why Choose SkillsHub?
+
+**[SkillsHub](https://www.skillshub.work)** is the leading platform for Claude AI skills, offering:
 
 - 🎯 **Organized by Category** - Skills are neatly organized into categories for easy discovery
 - 🔍 **Search & Filter** - Quickly find the skills you need
 - 📝 **Detailed Documentation** - Each skill comes with comprehensive documentation
 - 🚀 **Regular Updates** - We continuously add new skills from the community
+- 🌍 **Community Driven** - Skills are contributed by developers worldwide
+- 💡 **AI-Powered** - Leverage the power of Claude AI to boost your productivity
+- 🛠️ **Easy Integration** - Seamlessly integrate skills into your Claude Code workflow
+
+### What Are Claude AI Skills?
+
+Claude AI skills are specialized capabilities that extend Claude's functionality. Each skill is designed to help you accomplish specific tasks more efficiently, from document processing to data analysis, from creative design to development tools.
+
+### Explore Popular Categories
+
+- **Development & Code Tools** - Boost your coding workflow with specialized development skills
+- **Creative & Media** - Create stunning visuals, art, and media content
+- **Business & Marketing** - Streamline your business operations and marketing efforts
+- **Data & Analysis** - Analyze data and generate insights with AI-powered tools
+- **Document Processing** - Work with PDFs, Word documents, and presentations efficiently
+- **Productivity & Organization** - Organize files, automate workflows, and stay productive
+- **Security & Systems** - Build and test secure systems with confidence
+
+### How It Works
+
+1. **Browse Skills** - Explore our curated collection of Claude AI skills
+2. **Find What You Need** - Use categories and search to find the perfect skill
+3. **Use with Claude** - Integrate skills directly into your Claude Code environment
+4. **Boost Productivity** - Accomish more in less time with AI-powered automation
+
+### Join Our Community
+
+Be part of the growing community of developers, creators, and innovators who are leveraging the power of Claude AI skills. Whether you're looking to use existing skills or contribute your own, **[SkillsHub](https://www.skillshub.work)** is your gateway to the AI-powered future.
 
 ### Contribute
 
-Have an amazing Claude skill you'd like to share? Visit **[SkillsHub](https://skillshub.dev)** to submit your skill!
+Have an amazing Claude skill you'd like to share? Visit **[SkillsHub](https://www.skillshub.work)** to submit your skill and help the community grow!
 
 ---
 
 <div align="center">
 
+## 🚀 Start Exploring Today
+
+**[Visit SkillsHub](https://www.skillshub.work)** | **[Browse Skills](https://www.skillshub.work)** | **[Join Community](https://www.skillshub.work)**
+
 **Made with ❤️ by the SkillsHub team**
 
-**[Visit SkillsHub](https://skillshub.dev)** | **[Star this Repo ⭐]**
+*SkillsHub - Your ultimate destination for Claude AI skills*
+
+**[⭐ Star this Repo]** | **[🍿 Fork on GitHub]**
 
 </div>
