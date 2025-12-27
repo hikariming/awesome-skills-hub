@@ -1,0 +1,15 @@
+{
+  "name": "awesome-skills-hub",
+  "version": "1.0.0",
+  "description": "A curated list of amazing Claude AI skills from SkillsHub",
+  "scripts": {
+    "generate": "cd .. && npx tsx scripts/generate-awesome-skills-hub.ts"
+  },
+  "keywords": [
+    "claude",
+    "ai",
+    "skills",
+    "awesome-list"
+  ],
+  "license": "MIT"
+}
